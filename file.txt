@@ -1,2 +1,6 @@
 This is My First Code 
-i will write my code myself 
+i will write my code myself ls
+I will start from IAAC Terrafrom>Python>Git
+GitLab>Docker>Jenkins>Kubernets
+AWS>Azure>Ansible> 
+
